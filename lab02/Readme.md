@@ -43,7 +43,10 @@ resource "hashicups_coffee" "edu" {
    - Führe den Befehl `terraform apply` aus, um die modifizierte Kaffee Resource anzuwenden.
 
 5. **Überprüfe die Anwendung**:
-   - Stelle sicher, dass die Resource erfolgreich modifiziert wurde und überprüfe die Ausgabe.
+   - Stelle sicher, dass die Resource erfolgreich modifiziert wurde (Reload des Webshops eventuell notwendig)
 
 6. **Räume den Workspace wieder auf**:
-   - Führe dafür folgenden befehl aus: `terraform destroy`
+   - Führe dafür folgenden Befehl aus um die Resource zu löschen: `terraform destroy`
+
+7. **Überprüfe die Anwendung**:
+   - Nach einem Reload des Webhsops sollte die Kaffeesorte nicht mehr vorhanden sein.

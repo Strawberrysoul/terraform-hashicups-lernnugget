@@ -1,5 +1,8 @@
 **Aufgabe: Kaffee-Kreation in ein Terraform Modul verlagern**
 
+0. **Räume den Workspace wieder auf**:
+   - Führe dafür folgenden Befehl aus: `terraform destroy`
+
 1. **Erstelle ein neues Verzeichnis für das Modul**:
    - Erstelle ein Verzeichnis namens `coffee_module`.
 

@@ -44,5 +44,5 @@ resource "hashicups_coffee" "my_custom_coffee" {
 4. **Wende die Konfiguration an**:
    - Führe den Befehl `terraform apply` aus, um deine eigene Kaffee-Kreation zu erstellen.
 
-5. **Räume den Workspace wieder auf**:
-   - Führe dafür folgenden befehl aus: `terraform destroy`
+5. **Lass deiner Kreativität freien Lauf**:
+   - Erstelle zusätzliche Kaffeesorten, entferne sie wieder und beobachte, wie sich diese Änderungen auf die Ergebnisse von plan und apply auswirken.
