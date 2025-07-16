@@ -5,7 +5,7 @@
 2. **Erstelle eine eigene Kaffee-Kreation**:
    - Füge eine neue Resource für deine eigene Kaffee-Kreation hinzu. Du kannst dich dabei aus der Liste der bekannten Zutaten bedienen. Hier ist ein Beispiel, wie du deine eigene Kreation definieren könntest:
 
-    Mögliche Werte für Ingredients sind:
+   Mögliche Werte für Ingredients sind:
       - 'Espresso'
       - 'Oat Milk'
       - 'Hot Water'
