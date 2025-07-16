@@ -10,7 +10,7 @@
    - Erstelle eine Datei namens `main.tf` im Verzeichnis `coffee_module`.
 
 3. **Definiert den Terraform-Block**:
-   - Fügt folgenden Code in die `coffee_module/main.tf` Datei ein:
+   - Füge folgenden Code in die `coffee_module/main.tf` Datei ein:
 
 ```hcl
 terraform {
@@ -23,7 +23,7 @@ terraform {
 }
 ```
 
-4. **Füge Deine Kaffee-Kreation**
+4. **Füge Deine Kaffee-Kreation hinzu**
    - Füge Deinen `hashicups_coffee` Code aus lab03 in die `coffee_module/main.tf` Datei ein, um die Kaffee-Kreation als Modul zu definieren:
      z.B:
 
